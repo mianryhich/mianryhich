@@ -44,7 +44,7 @@
 
 ### 📫 Контакты
 
-* **Telegram:** [@твой_username](https://t.me/mianryh)
+* **Telegram:** [@mianryh](https://t.me/mianryh)
 * **Email:** mayka663@gmail.com
 * **Резюме:** [ссылка на резюме](https://hh.ru/resume/e7315b4dff1101778c0039ed1f786643456577)
 
