@@ -2,43 +2,50 @@
 
 ### Frontend-разработчик
 
-Я frontend-разработчик, который любит создавать понятные, удобные и современные веб-интерфейсы.
+Мне нравится frontend-разработка за возможность сочетать логику, творчество и визуальную составляющую. Люблю превращать идеи и макеты в удобные и интерактивные интерфейсы.
 
-Я выбрала frontend-разработку, потому что мне нравится сочетание логики и визуальной составляющей: превращать идеи и макеты в работающие интерфейсы, продумывать взаимодействие пользователя с сайтом и видеть результат своей работы.
-
-Я закончила курс **«Фронтенд-разработчик» в Яндекс Практикуме**, где работала над практическими проектами и получила опыт разработки веб-приложений с использованием современных инструментов и подходов.
-
-До перехода в разработку я работала аналитиком. Этот опыт помог мне развить системное и аналитическое мышление, внимательность к деталям и умение работать с данными и решать задачи последовательно.
+Сейчас развиваюсь в frontend-разработке, работаю над pet-проектами и постоянно изучаю новые инструменты и технологии.
 
 ### 🛠 Технологии и инструменты
 
 **Frontend:**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux" />
 </p>
 
-**Инструменты:**
+**Backend & инструменты:**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="npm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+</p>
+
+**Дополнительно:**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
 </p>
 
 ### 💼 В поиске работы
 
 Сейчас я открыта к предложениям на позицию **Frontend-разработчика**.
 
-Ищу команду, в которой смогу применять полученные навыки на реальных проектах, развиваться как разработчик и постепенно брать на себя более сложные задачи.
+Ищу команду, в которой смогу применять свои навыки на реальных проектах, развиваться профессионально и создавать полезные для пользователей продукты.
 
 ### 📫 Контакты
 
-* **Telegram:** [@твой_username](https://t.me/твой_username)
-* **Email:** твоя_почта@example.com
-* **Резюме:** ссылка на резюме
+* **Telegram:** [@твой_username](https://t.me/mianryh)
+* **Email:** mayka663@gmail.com
+* **Резюме:** [ссылка на резюме](https://hh.ru/resume/e7315b4dff1101778c0039ed1f786643456577)
 
 Буду рада новым профессиональным знакомствам и предложениям о сотрудничестве.
